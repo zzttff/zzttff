@@ -1,4 +1,5 @@
 ## Hi there 👋
+### A self-taught fool. 一个自学成才的傻子
 
 <!--
 **zzttff/zzttff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
