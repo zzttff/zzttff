@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 ## Projects 项目
 
 ### [neon-snake](https://github.com/zzttff/neon-snake)
+### [在线玩游戏](https://zzttff.github.io/neon-snake/)
 
 **NEON-SNAKE 2026** — 赛博霓虹主题的网页「概念贪吃蛇」。主栈为 **Vue 3 + Vite** 单页应用（Tailwind、vue-router、`@iconify/vue`、ECharts、Canvas 2D），无后端；排行榜为本地演示数据。游戏逻辑单源在 `src/game/snakeCore.ts`。
 
